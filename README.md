@@ -1,6 +1,6 @@
 # 💬 Facilicom Chatbox — One-Click Deploy 🚀
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/facilicom-chatbox)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Facilicom-Chatbot/facilicom-chatbox)
 
 A ready-to-deploy chatbot for Facilicom — powered by FastAPI (Python) and a clean HTML/CSS/JS frontend.
 
@@ -17,7 +17,7 @@ The Facilicom Chatbox is a professional, friendly Dutch-language assistant that 
 Click the **Deploy to Render** button above, connect your GitHub account, and watch your chatbot go live.
 
 ### Manual steps (if preferred)
-1. Push this folder to GitHub as `facilicom-chatbot`.
+1. Push this folder to GitHub as `facilicom-chatbox`.
 2. Go to [https://render.com](https://render.com) → *New → Web Service*.
 3. Connect your GitHub repo.
 4. Render will auto-detect settings from `render.yaml`.  
