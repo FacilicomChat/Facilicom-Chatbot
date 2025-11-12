@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Facilicom Chatbox</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <img src="https://www.facilicom.nl/themes/custom/facilicom/images/facilicom-logo.svg" alt="Facilicom logo" height="48" />
+        <h1>💬 Facilicom Chatbox</h1>
+        <span class="status" id="status">offline</span>
+      </header>
+
+      <main id="chat"></main>
+
+      <form id="chat-form">
+        <input id="message" name="message" placeholder="Typ je bericht…" autocomplete="off" required />
+        <button type="submit">Verstuur</button>
+      </form>
+    </div>
+
+    <script src="/static/script.js" defer></script>
+  </body>
+</html>
